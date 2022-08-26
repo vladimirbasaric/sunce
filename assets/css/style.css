@@ -84,7 +84,7 @@ h6 {
   background: transparent;
 }
 #header.header-scrolled {
-  background: rgba(55, 64, 85, 0.9);
+  background: rgba(255, 255, 255, 0.9);
   padding: 15px 0;
 }
 #header .logo {
@@ -100,7 +100,7 @@ h6 {
   color: #fff;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 60px;
 }
 
 /*--------------------------------------------------------------
@@ -128,7 +128,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 14px;
   white-space: nowrap;
   transition: 0.3s;
@@ -205,7 +205,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #000;
   font-size: 28px;
   cursor: pointer;
   display: none;
