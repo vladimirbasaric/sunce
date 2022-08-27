@@ -13,6 +13,13 @@ body {
   color: #444444;
 }
 
+.material-symbols-outlined {
+  /* font-variation-settings: "FILL" 0, "wght", "GRAD" 0, "opsz" 48; */
+  font-size: 48px;
+  margin-top: 15px;
+  color: #8b97b3;
+}
+
 #sonata {
   font-family: "Dancing Script", cursive;
   margin: 0;
