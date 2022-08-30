@@ -546,8 +546,8 @@ section {
 }
 .services .icon-box .icon {
   margin: 0 auto;
-  width: 64px;
-  height: 64px;
+  width: 150px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -557,7 +557,7 @@ section {
   border-radius: 50px;
 }
 .services .icon-box .icon i {
-  font-size: 32px;
+  font-size: 60px;
   transition: 0.5s;
   line-height: 1;
   position: relative;
